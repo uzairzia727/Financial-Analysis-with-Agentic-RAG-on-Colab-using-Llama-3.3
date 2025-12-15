@@ -1,0 +1,6 @@
+┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
+│   Data Sources  │───▶│  Vector Store   │───▶│    LLM Agent    │
+│  • Yahoo Finance│    │  • ChromaDB     │    │  • Groq API     │
+│  • Financial News│   │  • Embeddings   │    │  • Llama 3.3    │
+│  • Company Filings│  │  • Retrieval    │    │  • RAG Pipeline │
+└─────────────────┘    └─────────────────┘    └─────────────────┘
