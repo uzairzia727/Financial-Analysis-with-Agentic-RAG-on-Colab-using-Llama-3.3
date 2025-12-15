@@ -1,0 +1,11 @@
+# Company Analysis
+rag.query("What is Tesla's debt-to-equity ratio?")
+rag.query("Compare Microsoft and Google's operating margins")
+
+# Market Insights  
+rag.query("Which sectors are outperforming in 2024?")
+rag.query("How do rising interest rates affect tech stocks?")
+
+# Investment Strategy
+rag.query("Build a diversified portfolio for $50,000")
+rag.query("Best dividend stocks for retirement income")
