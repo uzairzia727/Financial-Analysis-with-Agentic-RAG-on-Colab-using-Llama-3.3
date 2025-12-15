@@ -1,0 +1,10 @@
+financial-agentic-rag/
+│
+├── financial_rag.py          # Main system implementation
+├── requirements.txt          # Dependencies
+├── LICENSE                   # MIT License
+├── README.md                 # This file
+├── examples/                 # Usage examples
+│   ├── basic_usage.ipynb
+│   └── advanced_analysis.ipynb
+└── config.py                 # Configuration settings
